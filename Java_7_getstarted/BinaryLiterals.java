@@ -2,7 +2,7 @@ package Java_7_getstarted;
 public class BinaryLiterals {
     public static void main(String[] args) {
         // Define a binary literal
-        int binaryLiteral = 0b1010;
+        // int binaryLiteral = 0b1010;
         // Print the binary literal
         // System.out.println(binaryLiteral); // Output: 10
         byte x1 = 0b101;    // Using b0, The b can be lower or upper case  
